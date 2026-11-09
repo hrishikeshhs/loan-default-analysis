@@ -30,7 +30,7 @@ Rejecting the riskiest 20% of applicants (Model A) lowers the approved-book defa
 - Logistic regression is a baseline; other models may perform better
 
 ## Files
-- `loan_default_analysis.ipynb`: full analysis
-- `queries.sql`: SQL queries
-- `dashboard.pdf` / `dashboard.jpeg`: Power BI dashboard
-- `cutoff_results.csv`: rejection cutoff results
+- [loan_default_analysis.ipynb](loan_default_analysis.ipynb): full analysis
+- [queries.sql](queries.sql): SQL queries
+- [dashboard.pdf](dashboard.pdf) / [dashboard.jpeg](dashboard.jpeg): Power BI dashboard
+- [cutoff_results.csv](cutoff_results.csv): rejection cutoff results
